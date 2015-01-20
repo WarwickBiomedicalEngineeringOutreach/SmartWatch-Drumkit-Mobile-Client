@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>logo.png</file>
+        <file>btSelector.qml</file>
+        <file>btworker.qml</file>
+    </qresource>
+</RCC>
